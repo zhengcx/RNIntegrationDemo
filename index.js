@@ -22,7 +22,7 @@ var styles = StyleSheet.create({
     alignItems:'center'
   },
   hello: {
-    fontSize: 25,
+    fontSize: 30,
   },
 });
 
